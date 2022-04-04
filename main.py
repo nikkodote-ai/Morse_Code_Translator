@@ -1,6 +1,5 @@
 """Convert user input to Morse Code and vice versa"""
 
-
 import requests
 
 #get morse code from web
